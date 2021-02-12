@@ -180,3 +180,21 @@ body{
     transform: translateY(-15px);
   }
 }
+
+.bio{
+    border:6px solid rgb(226, 223, 43);
+    font-size: 24px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+    padding: 1%;
+}
+
+.facebook img{
+    width:120px;
+}
+
+.gmail img{
+    width:100px;
+    margin-top:30px;
+}
